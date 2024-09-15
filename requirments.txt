@@ -1,0 +1,7 @@
+os
+argparse
+re
+python-dotenv
+openai
+Transformers
+GPT2Tokenizer
