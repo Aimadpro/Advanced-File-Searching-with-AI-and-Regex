@@ -11,6 +11,7 @@ Procesamiento Segmentado de Archivos: Divide automáticamente los archivos grand
 Confirmación Interactiva: Antes de proceder, el programa muestra el tamaño del archivo y el coste estimado, permitiendo un control total por parte del usuario.
 
 📦 Requisitos
+
 Asegúrate de tener las siguientes dependencias instaladas:
 - python-dotenv
 - openai
@@ -29,6 +30,7 @@ file: Ruta del archivo o directorio donde se encuentran los archivos.
 --max-tokens: Número máximo de tokens que el modelo puede generar.
 
 💡 Mejoras Futuras
+
 Soporte para otros modelos de IA (por ejemplo, GPT-J, LLaMA, etc.)
 Implementar procesamiento paralelo para grandes conjuntos de archivos.
 Ampliar la herramienta para soportar otros tipos de archivos (PDF, documentos de Word, etc.).
@@ -36,9 +38,11 @@ Ampliar la herramienta para soportar otros tipos de archivos (PDF, documentos de
 Si deseas contribuir a este proyecto, no dudes en enviar sugerencias, problemas o pull requests. Asegúrate de seguir las pautas de contribución.
 
 📜 Licencia
+
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 ✉️ Contacto
+
 Para cualquier consulta o sugerencia, no dudes en ponerte en contacto:
 
 Nombre: Aimad Aisa Driouchi
