@@ -1,7 +1,9 @@
 📄 Descripción del Proyecto
+
 SmartSearch es una herramienta basada en Python diseñada para buscar y analizar archivos de texto utilizando expresiones regulares o modelos de inteligencia artificial como OpenAI GPT. Esta herramienta es ideal para trabajar con grandes volúmenes de datos o documentos, permitiendo analizar y extraer información relevante de manera eficiente. SmartSearch puede ejecutar búsquedas con patrones simples o aprovechar la potencia de los modelos de IA para proporcionar resultados contextuales y detallados a partir de segmentos de texto.
 
 ✨ Características Clave
+
 Búsqueda con Expresiones Regulares: Realiza búsquedas tradicionales de patrones utilizando expresiones regulares en múltiples archivos.
 Búsqueda Basada en IA: Utiliza modelos avanzados como GPT-3 o GPT-4 para procesar, analizar y extraer información contextual de archivos grandes.
 Estimación de Coste y Tokens: Proporciona una estimación detallada del coste y la cantidad de tokens necesarios antes de ejecutar una búsqueda basada en IA.
